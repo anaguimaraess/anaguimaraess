@@ -4,8 +4,8 @@ Estou iniciando minha carreira de desenvolvedora e atualmente trabalho no Banco 
 
 ❤️ Apaixonada por tecnologia </br>
 🤗 18 anos</br>
-📍 São Paulo, Brasil
-📚 Estudando</br>
+📍 São Paulo, Brasil </br>
+📚 Análise e Desevolvimento de Sistemas - Senac</br>
 💻 Focada em back-end</br>
 🏦 Aprendiz de TI</br>
 
