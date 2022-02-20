@@ -3,7 +3,7 @@
 Estou iniciando minha carreira de desenvolvedora e atualmente trabalho no Banco PAN. 
 
 ❤️ Apaixonada por tecnologia </br>
-🤗 18 anos</br>
+🤗 19 anos</br>
 📍 São Paulo, Brasil </br>
 📚 Análise e Desevolvimento de Sistemas - Senac</br>
 💻 Focada em back-end</br>
