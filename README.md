@@ -7,7 +7,7 @@ Estou iniciando minha carreira de desenvolvedora e atualmente trabalho no Banco 
 📍 São Paulo, Brasil </br>
 📚 Análise e Desevolvimento de Sistemas - Senac</br>
 💻 Focada em back-end</br>
-🏦 Aprendiz de TI</br>
+🏦 Estagiária de TI</br>
 
 Fique a vontade para me contatar :)
 <div align="center">
